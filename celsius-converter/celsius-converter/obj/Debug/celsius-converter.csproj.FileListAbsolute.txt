@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\celsius-converter\celsius-converter\bin\Debug\celsius-converter.exe.config
+C:\Users\student\Desktop\celsius-converter\celsius-converter\bin\Debug\celsius-converter.exe
+C:\Users\student\Desktop\celsius-converter\celsius-converter\bin\Debug\celsius-converter.pdb
+C:\Users\student\Desktop\celsius-converter\celsius-converter\obj\Debug\celsius-converter.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\celsius-converter\celsius-converter\obj\Debug\celsius_converter.frmCelsiusConverter.resources
+C:\Users\student\Desktop\celsius-converter\celsius-converter\obj\Debug\celsius_converter.Properties.Resources.resources
+C:\Users\student\Desktop\celsius-converter\celsius-converter\obj\Debug\celsius-converter.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\celsius-converter\celsius-converter\obj\Debug\celsius-converter.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\celsius-converter\celsius-converter\obj\Debug\celsius-converter.exe
+C:\Users\student\Desktop\celsius-converter\celsius-converter\obj\Debug\celsius-converter.pdb
