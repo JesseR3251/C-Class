@@ -1,0 +1,10 @@
+c:\users\jesse\source\repos\EmployeeSales\EmployeeSales\bin\Debug\EmployeeSales.exe.config
+c:\users\jesse\source\repos\EmployeeSales\EmployeeSales\bin\Debug\EmployeeSales.exe
+c:\users\jesse\source\repos\EmployeeSales\EmployeeSales\bin\Debug\EmployeeSales.pdb
+c:\users\jesse\source\repos\EmployeeSales\EmployeeSales\obj\Debug\EmployeeSales.frm_EmpSales.resources
+c:\users\jesse\source\repos\EmployeeSales\EmployeeSales\obj\Debug\EmployeeSales.Properties.Resources.resources
+c:\users\jesse\source\repos\EmployeeSales\EmployeeSales\obj\Debug\EmployeeSales.csproj.GenerateResource.Cache
+c:\users\jesse\source\repos\EmployeeSales\EmployeeSales\obj\Debug\EmployeeSales.csproj.CoreCompileInputs.cache
+c:\users\jesse\source\repos\EmployeeSales\EmployeeSales\obj\Debug\EmployeeSales.exe
+c:\users\jesse\source\repos\EmployeeSales\EmployeeSales\obj\Debug\EmployeeSales.pdb
+c:\users\jesse\source\repos\EmployeeSales\EmployeeSales\obj\Debug\EmployeeSales.csprojResolveAssemblyReference.cache
