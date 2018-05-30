@@ -26,6 +26,82 @@ namespace BC_Bagels
 
         }
 
+        private void chkSalad_CheckedChanged(object sender, EventArgs e)
+        {
+            if (chkSalad.Checked)
+            {
+                salad = 5.75;
+                grpSalad.Visible = true;
+            }
+            else
+            {
+                grpSalad.Visible = false;
+                salad = 0;
+                // uncheck both toppings
+                rdoSpinach.Checked = false;
+                rdoChef.Checked = false;
+            }
+            DisplayTotal();
+        }
+
+        private void chkSoda_CheckedChanged(object sender, EventArgs e)
+        {
+            if (chkSoda.Checked)
+            {
+                soda = 1.50;
+                grpSoda.Visible = true;
+            }
+            else
+            {
+                grpSoda.Visible = false;
+                soda = 0;
+                // uncheck both toppings
+                rdoRegularSoda.Checked = false;
+                rdoDietSoda.Checked = false;
+            }
+            DisplayTotal();
+        }
+
+        private void chkCreamCheese_CheckedChanged(object sender, EventArgs e)
+        {
+            if (chkCreamCheese.Checked)
+            {
+                creamCheese = 1.50;
+
+            }
+            else
+            {
+                creamCheese = 0;
+            }
+            DisplayTotal();
+        }
+
+        private void rdoSpinach_CheckedChanged(object sender, EventArgs e)
+        {
+            if (rdoSpinach.Checked)
+            {
+                spinach = .25;
+            }
+            else
+            {
+                spinach = 0;
+            }
+            DisplayTotal();
+        }
+
+        private void rdoChef_CheckedChanged(object sender, EventArgs e)
+        {
+            if (rdoChef.Checked)
+            {
+                chef = .50;
+            }
+            else
+            {
+                chef = 0;
+            }
+            DisplayTotal();
+        }
+
         private void chkLox_CheckedChanged(object sender, EventArgs e)
         {
             if (chkLox.Checked)

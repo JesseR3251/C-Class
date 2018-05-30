@@ -8,3 +8,13 @@ C:\Users\student\Desktop\BC Bagels\BC Bagels\obj\Debug\BC Bagels.csproj.Generate
 C:\Users\student\Desktop\BC Bagels\BC Bagels\obj\Debug\BC Bagels.csproj.CoreCompileInputs.cache
 C:\Users\student\Desktop\BC Bagels\BC Bagels\obj\Debug\BC Bagels.exe
 C:\Users\student\Desktop\BC Bagels\BC Bagels\obj\Debug\BC Bagels.pdb
+C:\Users\student\Desktop\C-Class\BC Bagels\BC Bagels\bin\Debug\BC Bagels.exe.config
+C:\Users\student\Desktop\C-Class\BC Bagels\BC Bagels\bin\Debug\BC Bagels.exe
+C:\Users\student\Desktop\C-Class\BC Bagels\BC Bagels\bin\Debug\BC Bagels.pdb
+C:\Users\student\Desktop\C-Class\BC Bagels\BC Bagels\obj\Debug\BC Bagels.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\C-Class\BC Bagels\BC Bagels\obj\Debug\BC_Bagels.frmBagel.resources
+C:\Users\student\Desktop\C-Class\BC Bagels\BC Bagels\obj\Debug\BC_Bagels.Properties.Resources.resources
+C:\Users\student\Desktop\C-Class\BC Bagels\BC Bagels\obj\Debug\BC Bagels.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\C-Class\BC Bagels\BC Bagels\obj\Debug\BC Bagels.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\C-Class\BC Bagels\BC Bagels\obj\Debug\BC Bagels.exe
+C:\Users\student\Desktop\C-Class\BC Bagels\BC Bagels\obj\Debug\BC Bagels.pdb
