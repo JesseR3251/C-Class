@@ -1,0 +1,10 @@
+C:\Users\Jesse\source\repos\CateringCompany\CateringCompany\bin\Debug\CateringCompany.exe.config
+C:\Users\Jesse\source\repos\CateringCompany\CateringCompany\bin\Debug\CateringCompany.exe
+C:\Users\Jesse\source\repos\CateringCompany\CateringCompany\bin\Debug\CateringCompany.pdb
+C:\Users\Jesse\source\repos\CateringCompany\CateringCompany\obj\Debug\CateringCompany.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\source\repos\CateringCompany\CateringCompany\obj\Debug\CateringCompany.frmCateringCompany.resources
+C:\Users\Jesse\source\repos\CateringCompany\CateringCompany\obj\Debug\CateringCompany.Properties.Resources.resources
+C:\Users\Jesse\source\repos\CateringCompany\CateringCompany\obj\Debug\CateringCompany.csproj.GenerateResource.Cache
+C:\Users\Jesse\source\repos\CateringCompany\CateringCompany\obj\Debug\CateringCompany.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\source\repos\CateringCompany\CateringCompany\obj\Debug\CateringCompany.exe
+C:\Users\Jesse\source\repos\CateringCompany\CateringCompany\obj\Debug\CateringCompany.pdb
