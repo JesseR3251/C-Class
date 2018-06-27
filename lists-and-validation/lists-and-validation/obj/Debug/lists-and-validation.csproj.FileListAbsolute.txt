@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\lists-and-validation\lists-and-validation\bin\Debug\lists-and-validation.exe.config
+C:\Users\student\source\repos\lists-and-validation\lists-and-validation\bin\Debug\lists-and-validation.exe
+C:\Users\student\source\repos\lists-and-validation\lists-and-validation\bin\Debug\lists-and-validation.pdb
+C:\Users\student\source\repos\lists-and-validation\lists-and-validation\obj\Debug\lists-and-validation.csprojResolveAssemblyReference.cache
+C:\Users\student\source\repos\lists-and-validation\lists-and-validation\obj\Debug\lists_and_validation.Form1.resources
+C:\Users\student\source\repos\lists-and-validation\lists-and-validation\obj\Debug\lists_and_validation.Properties.Resources.resources
+C:\Users\student\source\repos\lists-and-validation\lists-and-validation\obj\Debug\lists-and-validation.csproj.GenerateResource.Cache
+C:\Users\student\source\repos\lists-and-validation\lists-and-validation\obj\Debug\lists-and-validation.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\lists-and-validation\lists-and-validation\obj\Debug\lists-and-validation.exe
+C:\Users\student\source\repos\lists-and-validation\lists-and-validation\obj\Debug\lists-and-validation.pdb
